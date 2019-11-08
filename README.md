@@ -13,10 +13,10 @@ Aimed for students living in Germany as the Student Point System. May vary from 
 This small library feature includes links to information about programming languages . It might be more useful for beginners, but this won´t stop an expert from using it :smile:
 
 ### > Notes
-This note feature lets you save notes in a file with the date of time of creation as filename.After creation of a note, the program creates the folder /note in the root directory of the program, in case it does not exist already. Lateron you will be able to search, edit and delete notes with just one click.
+This note feature lets you save notes in a file with the date of time of creation as filename.After creation of a note, the program creates the folder /note in the root directory of the program, in case it does not exist already. Later on you will be able to search, edit and delete notes with just one click.
 
 ### > GUI
-A simple GUI to make it easier for the user to type the data in
+A simple GUI to make it easier for the user to type the data in.
 
 
 Everything written in Python
